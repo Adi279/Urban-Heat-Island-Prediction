@@ -1,0 +1,7 @@
+Cluster  UHI_Label        
+0        Moderate UHI         57625
+1        Low UHI              38831
+2        High UHI             32633
+3        Low-Moderate UHI     19448
+4        Moderate-High UHI    12063
+Name: count, dtype: int64
