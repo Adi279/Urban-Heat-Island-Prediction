@@ -215,7 +215,7 @@ def get_uhi():
         return feature.set('style', {
             'color': color,
             'fillColor': color,
-            'width': 10
+            'width': 5
         })
 
     styled_fc = fc.map(uhi_style)
